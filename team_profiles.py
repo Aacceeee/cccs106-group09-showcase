@@ -45,7 +45,7 @@ def get_initial_team() -> List[TeamMember]:
             full_name="Marc Ace T. Evangelista", # example: "Maria Clara Santos"
             role="Requirements Engineer & UI/UX Lead",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
-            github_handle="marevangelista@my.cspc.edu.ph",          # example: "@mariaclara-cspc"
+            github_handle="@Aacceeee",          # example: "@mariaclara-cspc"
             avatar_icon=ft.Icons.PALETTE,
             accent_color=ft.Colors.TEAL_700,
             photo_url="https://avatars.githubusercontent.com/u/215640858?s=400&u=20bfcf54f5a19cdceca48bf31158603bffa3e3ca&v=4",                 # Photo: local asset or URL (e.g. "https://github.com/dev1-github.png")
@@ -55,14 +55,14 @@ def get_initial_team() -> List[TeamMember]:
         # Replace Developer 2 profile with your real student details:
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="[Dev 2] Student ID Here",  # example: "2024-10456"
-            full_name="[Dev 2] Student Name Here", # example: "Juan Dela Cruz"
-            role="Backend & State Engineer",
-            specialization="State Mutation & Event Handlers",
-            github_handle="@dev2-github",          # example: "@jdelacruz-cspc"
+            student_id="2026-2412874",  # example: "2024-10456"
+            full_name="Mark Paul B. Calvelo", # example: "Juan Dela Cruz"
+            role="Data System & Architecture",
+            specialization="Data System Design & Architecture",
+            github_handle="@heymarkyou",          # example: "@jdelacruz-cspc"
             avatar_icon=ft.Icons.DATA_OBJECT,
             accent_color=ft.Colors.AMBER_800,
-            photo_url="/dev2.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
+            photo_url="https://avatars.githubusercontent.com/u/283990515?v=4",                 # Photo: local asset or URL (e.g. "https://github.com/dev2-github.png")
         ),
         # ----------------------------------------------------------------------
         # TODO: [DEVELOPER 3 TASK] - Branch: feature/dev3-features
