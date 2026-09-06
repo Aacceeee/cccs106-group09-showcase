@@ -41,7 +41,7 @@ def get_initial_team() -> List[TeamMember]:
         # (Add your photo URL e.g. "https://github.com/<username>.png" or local path)
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="2026-2412875",  # example: "2024-10123"
+            student_id="2024-2412875",  # example: "2024-10123"
             full_name="Marc Ace T. Evangelista", # example: "Maria Clara Santos"
             role="Requirements Engineer & UI/UX Lead",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
@@ -55,7 +55,7 @@ def get_initial_team() -> List[TeamMember]:
         # Replace Developer 2 profile with your real student details:
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="2026-2412874",  # example: "2024-10456"
+            student_id="2024-2412874",  # example: "2024-10456"
             full_name="Mark Paul B. Calvelo", # example: "Juan Dela Cruz"
             role="Data System & Architecture",
             specialization="Data System Design & Architecture",
