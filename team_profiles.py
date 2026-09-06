@@ -41,14 +41,14 @@ def get_initial_team() -> List[TeamMember]:
         # (Add your photo URL e.g. "https://github.com/<username>.png" or local path)
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="[Dev 1] Student ID Here",  # example: "2024-10123"
-            full_name="[Dev 1] Student Name Here", # example: "Maria Clara Santos"
-            role="Lead Frontend UI Developer",
+            student_id="2026-2412875",  # example: "2024-10123"
+            full_name="Marc Ace T. Evangelista", # example: "Maria Clara Santos"
+            role="Requirements Engineer & UI/UX Lead",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
-            github_handle="@dev1-github",          # example: "@mariaclara-cspc"
+            github_handle="marevangelista@my.cspc.edu.ph",          # example: "@mariaclara-cspc"
             avatar_icon=ft.Icons.PALETTE,
             accent_color=ft.Colors.TEAL_700,
-            photo_url="/dev1.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev1-github.png")
+            photo_url="https://avatars.githubusercontent.com/u/215640858?s=400&u=20bfcf54f5a19cdceca48bf31158603bffa3e3ca&v=4",                 # Photo: local asset or URL (e.g. "https://github.com/dev1-github.png")
         ),
         # ----------------------------------------------------------------------
         # TODO: [DEVELOPER 2 TASK] - Branch: feature/dev2-state
