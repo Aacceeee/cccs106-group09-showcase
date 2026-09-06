@@ -71,6 +71,8 @@ def get_initial_team() -> List[TeamMember]:
         TeamMember(
             student_id="2024-2411194",  # example: "2024-10789"
             full_name="Janline B. Lerio", # example: "Angelo Reyes"
+            student_id="2411194",  # example: "2024-10789"
+            full_name="Lerio, Janline B.", # example: "Angelo Reyes"
             role="QA & DevOps Lead",
             specialization="Testing Diagnostics, Theme Engine & Controls",
             github_handle="@bblynnne",          # example: "@areyes-cspc"
